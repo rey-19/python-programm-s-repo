@@ -13,4 +13,4 @@ num_1=['1','2','3']
 num_2=['4','5','6']
 num_3=['7','8','9']
 keypad=[num_1,num_2,num_3]
-print(keypad[2][0])
+print(keypad[2][1])
