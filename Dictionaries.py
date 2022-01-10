@@ -1,5 +1,5 @@
-my_dictionary={'key1':123 ,'key2':456 ,'key3':[456,457,468],'key4':['Reyansh','Jhansi']}
-print(my_dictionary)
+my_dictionary={'key1':'rey' ,'key2':456 ,'key3':[456,457,468],'key4':['Reyansh','Jhansi']}
+print(my_dictionary['key1'])
 
 pet_1={}
 pet_1['animal']='Cat'
