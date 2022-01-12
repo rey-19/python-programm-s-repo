@@ -1,7 +1,6 @@
 #set
 r=set()
-r.add(6)
-r.add(6)
+r.add(6)#add's unique elements to the set
 r.add(9)
 print(r)
 
